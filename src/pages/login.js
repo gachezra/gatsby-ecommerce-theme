@@ -121,7 +121,7 @@ const LoginPage = (props) => {
               fullWidth
               level={'secondary'}
             >
-              create an account
+              Create an account
             </Button>
           </form>
         </div>
