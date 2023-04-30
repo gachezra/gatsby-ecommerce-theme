@@ -36,7 +36,7 @@ const BlogPage = (props) => {
             onClick={() => navigate('/blog/sample')}
             to={'/blog/sample'}
           >
-            Design
+            Designers
           </ThemeLink>
           <ThemeLink
             onClick={() => navigate('/blog/sample')}
